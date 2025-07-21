@@ -17,7 +17,7 @@ public class SmartTaskManager extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // UI Components
+        
         taskField = new JTextField(15);
         dateField = new JTextField(10);
         priorityField = new JTextField(8);
